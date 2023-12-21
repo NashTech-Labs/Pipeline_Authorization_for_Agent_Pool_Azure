@@ -1,5 +1,5 @@
 # Description
-Here, In this template, we will create an authorization module concerning service connection to execute our ADO Pipelines using the terraform module.
+Here, In this template, we will authorize the Pool to access the particular in the agent to run the pipeline using the terraform module. 
 
 ---
 
